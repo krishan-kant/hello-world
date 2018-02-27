@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+Hey there, Krishan here. Just learning some new things :)
